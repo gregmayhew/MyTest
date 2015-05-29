@@ -1,0 +1,7 @@
+          
+           ad-ad ad-ne ad-sq sq-ad sq-ne sq-sq Sum
+  ad-ad      190     0     0     0     0     0 190
+  ad-notad     0    21    19     0     0     0  40
+  sq-notsq     0     0     0    10     6     0  16
+  sq-sq        0     0     0     0     0   162 162
+  Sum        190    21    19    10     6   162 408
